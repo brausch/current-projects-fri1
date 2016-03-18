@@ -28,6 +28,23 @@ h2 {
   background-color: #def6ef;
 }
 
+h4 {
+  font-family: 'Bree Serif', serif;
+  font-size: 30px;
+  text-align: center;
+  color: #656564;
+  padding-top: 10px;
+}
+
+h5 {
+  font-family: 'Bree Serif', serif;
+  font-size: 20px;
+  text-align: center;
+  color: #656564;
+  padding-bottom: 10px;
+}
+
+
 .g {
   width: 200px;
   font-color: #656564;
@@ -42,6 +59,29 @@ h2 {
 
 .under {
   padding-left: 10px;
+}
+
+.project {
+  font-size: 20px;
+}
+
+.pro-link {
+  font-size: 30px;
+}
+
+ol {
+  list-style: none;
+}
+
+.pro-col {
+  padding: 10px;
+  border-color: #52d9b7;
+  border-style: groove;
+  border-width: 3px;
+  display: block;
+  height: 200px;
+  border-radius: 10px;
+  text-align: center;
 }
 
 .under1 {
@@ -64,6 +104,7 @@ a:link {
   color: #089870;
   font-weight: bold;
 }
+
 .about {
   padding-left: 10px;
   font-size: 20px;
@@ -75,10 +116,6 @@ a:link {
   font-weight: bold;
 }
 
-.wood {
- background-color: #d4a58a;
-
-}
 
 hr {
   height: 10px;
@@ -124,4 +161,9 @@ img.oct-sml {
   border-width: 10px;
   border-style: solid;
   border-radius: 3px 25px 3px;
+}
+
+.pro {
+  font-size: 10px;
+  font-weight: bold;
 }
